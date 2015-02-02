@@ -1,4 +1,5 @@
 Title: "What is an Agent and Why Should I Care?”
+
 Author: Time Menzies, Adrian Pearce, Clinton Heinze, Simon Goss
 
  http://agent-ready.googlecode.com/svn-history/r120/branches/andres/share/pdf/menzies02.pdf
