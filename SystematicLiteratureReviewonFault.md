@@ -2,7 +2,7 @@ Title: A Systematic Literature Review on Fault Prediction Performance in Softwar
 
 Author: Tracy Hall, Sarah Beecham, David Bowes, David Gray, and Steve Counsell
 
-Paper: http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6035727&tag=1
+Paper: http://bura.brunel.ac.uk/bitstream/2438/5743/3/Fulltext.pdf
 
 From this paper I determined that we need to have a couple Research questions we should answer. These research questions will guide our understanding of what we are looking for in papers and allow us to determine dimensions for our rep grid analysis. This paper defined criteria for prediction studies, context, model building, and data presented as assessment information.  The grouping of criteria translated to 4 phases which weeded out fail papers. This full literary review started with 2073 got cut down to 208 that were actually reviewed by people. After the review the papers were cut down to 36.
 
