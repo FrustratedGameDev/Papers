@@ -20,3 +20,6 @@ Read the abstracts and list the ones that apply.
 
 Repeat!
 
+##Rep grid
+
+When we have more papers we will construct a rep grid (as seen in Menzies' paper) that shows what is different about them.
