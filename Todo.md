@@ -4,3 +4,9 @@ Todo.md
 
 * Read abstracts of the odd references from the Cowboys paper
 * Put possibly useful abstracts into this repo
+
+
+## Denae
+
+* Add Repgrid iteration
+* Add summarries of 3 papers
