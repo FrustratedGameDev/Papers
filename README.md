@@ -9,6 +9,8 @@ Here we provide summaries/abstracts of papers we read.
 
 * https://www.youtube.com/watch?v=aqpe1uGAjXc
 
+* http://www.cs.rug.nl/~paris/papers/ICSE11.pdf 
+
 ## RegGrid Analysis Tool: 
 
 * http://repertorygridtool.com
