@@ -16,6 +16,7 @@ Dimensions Explained
         * Does the team do more unit tests or more system tests?
     * creativity vs features
         * Does the team value creative desire more or implemented features more?
+        * Denae& Anthony: Requirement volatility
     * user challenge vs lack of user challenge
         * Did the team construct this product while thinking about how challenging this would be for the user?
     * user emotion vs lack of user emotion
@@ -70,4 +71,8 @@ Dimensions Explained
         * rename to size of product?
         * Not just games, but also normal software
 
+## Dimensions Combined:
 
+* Requirement Volatility
+   - Combiness agile waterfal & creativity- features
+* 
