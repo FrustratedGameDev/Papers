@@ -10,3 +10,7 @@ This paper addresses the issue of developing innovative software with a case stu
 
 
 Read More: http://www.worldscientific.com/doi/abs/10.1142/S1363919601000464
+
+## Dimensions
+- agile vs waterfall
+- process vs no process
