@@ -56,6 +56,8 @@ Dimensions Explained
         * duplicate of company size?
     * indies vs publisher
         * rename to contract deal?
+        * Denae - I would explain this as is as who large companies report to and who small companies
+        * Anthony - replies and says that this should be combined with organizational hierarchy (double tiers)?
         * this covers indies and publishers as well as some traditional software deals as well
     * medium games vs large games
         * rename to size of product?
