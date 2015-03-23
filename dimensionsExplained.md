@@ -64,7 +64,7 @@ Dimensions Explained
         * duplicate of company size?
     * indies vs publisher
         * rename to contract deal?
-        * Denae - I would explain this as is as who large companies report to and who small companies
+        * Denae - I would explain this as is as who large companies report to and who small companies talk to
         * Anthony - replies and says that this should be combined with organizational hierarchy (double tiers)?
         * this covers indies and publishers as well as some traditional software deals as well
     * medium games vs large games
@@ -91,4 +91,16 @@ Dimensions Explained
    - could also mention a bit of the user impact dimension
    - what is the game for: entertainment or to solve problem and how does that effect the developer's interest?
    - people are interested in the art of creating games just as they are interested in the are of creating computer programs.
-   - 
+   
+* Creative v.s. Constructive
+   - keep same
+
+* Team composition
+   - combine: high dev interaction vs low dev interaction  & team composition(team member movement aka "Anthony calls it viscosity") & multiple discipline teams vs individual discipline teams
+
+* Funding
+   - traditional funding() vs crowdfunding
+   - spectrum: 1 receiving funding from company .........3 partial crowdfunding...........5 raising money on own
+   - Possibly add another one underthis: how responsible/accountable the company is for its product
+      - ex. (1) oracle buying all of teklec and running teklec as oracle vs. (2)oracle and teklec running simultaneously and the name are one in the same vs. (3)Teklec living their life and happen to get funding from Oracle. Oracle still does not run any part of the show.
+   
