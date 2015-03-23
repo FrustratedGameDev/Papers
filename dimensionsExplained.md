@@ -49,6 +49,13 @@ Dimensions Explained
     * funding
         * Was the product funded traditionally (contract deal like with publishers, self-funded) or with crowdfunding?
     * medium games vs large games
+    * high job stability vs low job stability
+      * Consistent and expected long term job v.s.  expecting a short term job
+    * high turnover vs low turnover
+      * High will be people fed up with the job and leaving vs. people deciding to stay and enjoy working at the company. Less likely to leave.
+    * high work ownership vs. low work ownership
+      * Ownership here means accountability and responsibility, not dictatorship. Having your name associated with the product.
+      * Anthony & Denae: Keep name as 'ownership' reference c.ymcdn.com paper
 
 ## Challenges
 
