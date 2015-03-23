@@ -13,3 +13,8 @@ Summary:
  --high turnover 
  --job stability 
  --ownership of work
+
+ Actually added
+  job stability
+  high turnover
+  work ownership
