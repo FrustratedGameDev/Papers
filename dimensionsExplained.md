@@ -75,6 +75,12 @@ Dimensions Explained
 
 * Requirement Volatility
    - Combiness agile waterfal & creativity- features & process - no process
+   
 * User Interactions
    - user challenge & user emotion & user fun & user engagement & user impact
-   -
+   
+* Testing
+ - unit testing vs system testing & is there testing vs.no testing
+ - can be defined overall do they have a lot of testing or just a little bit. What kind?
+ 
+* 
