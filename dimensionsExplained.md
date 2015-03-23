@@ -74,5 +74,5 @@ Dimensions Explained
 ## Dimensions Combined:
 
 * Requirement Volatility
-   - Combiness agile waterfal & creativity- features
+   - Combiness agile waterfal & creativity- features & process - no process
 * 
