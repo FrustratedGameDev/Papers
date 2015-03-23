@@ -78,9 +78,17 @@ Dimensions Explained
    
 * User Interactions
    - user challenge & user emotion & user fun & user engagement & user impact
+   - social interaction - Could be posed as a question at the end of the section.
+      - changed the way people game. the game continues to be played even when a specific user is missing. the same way conversations continue when someone leaves.
+   - Anthony has official quote somewhere
    
 * Testing
  - unit testing vs system testing & is there testing vs.no testing
  - can be defined overall do they have a lot of testing or just a little bit. What kind?
  
-* 
+* Motivation
+   - combines entertainmen-solve problem dimension
+   - could also mention a bit of the user impact dimension
+   - what is the game for: entertainment or to solve problem and how does that effect the developer's interest?
+   - people are interested in the art of creating games just as they are interested in the are of creating computer programs.
+   - 
