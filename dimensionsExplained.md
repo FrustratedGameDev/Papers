@@ -75,4 +75,6 @@ Dimensions Explained
 
 * Requirement Volatility
    - Combiness agile waterfal & creativity- features & process - no process
-* 
+* User Interactions
+   - user challenge & user emotion & user fun & user engagement & user impact
+   -
