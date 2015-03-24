@@ -1,9 +1,12 @@
  The ‘Console Ship is Sinking’ and What this Means for Indies
-  Jennifer R. Whitson
+ ===
+ 
+ Author:  Jennifer R. Whitson
 
- Abstract
+## Abstract
 Console development is rarely kind to developers. It is an unsustainable paradigm wherein the quests for profits predominate, production is streamlined and rationalized, and the creative process of developers is greatly curtailed in order to maintain shrinking profit margins. Development studios are the creative force behind games. They conceptualize, design, and code our spaces of play. But in the larger chain of the console industry, they are a small cog in a rationalized production cycle, occupying a subservient position in contrast to publishers and manufacturers, and bargaining from an undesirable negotiating position. Because of their passion for games, developers are often willing to overlook working conditions that are less than ideal, profit models that benefit those that sell and market games rather than those that create them, and contracts that stifle creativity in favour of less risky clones and more profitable sequels. However, there is a breaking point for every dedicated developer, and with the growth of social and mobile distribution platforms, there seem to be more indie "escape routes" than ever before. This article outlines the constraints of console development as well as the promises of social and mobile games, ultimately detailing what this means for indie developers as well as academics. 
 
+## Notes
  the game industry is currently experiencing a massive shift: moving from a predominately single-stream economic model dependent on retail PC and console games, to a more diverse economic landscape enabled by online connectivity and digital distribution.
 
   With the paradigm shifts introduced by new development models, indies have been liberated from console development only to become refugees in social and mobile development
