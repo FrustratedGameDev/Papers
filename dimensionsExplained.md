@@ -1,7 +1,7 @@
 Dimensions Explained
 ===
 
-## Dimensions
+## Dimensions from Grid v1
     * agile process vs waterfall process
         * Does the team develop software using an iterative agile approach or more of a linear waterfall model?
     * process vs no process
@@ -58,7 +58,7 @@ Dimensions Explained
       * Ownership here means accountability and responsibility, not dictatorship. Having your name associated with the product.
       * Anthony & Denae: Keep name as 'ownership' reference c.ymcdn.com paper
 
-## Challenges
+## Challenges from Grid v1
 
     * indie devs vs AAA devs
         * duplicate of company size?
@@ -71,7 +71,7 @@ Dimensions Explained
         * rename to size of product?
         * Not just games, but also normal software
 
-## Dimensions Combined:
+## Dimensions from Grid v2
 
 * Requirement Volatility
    - Combiness agile waterfal & creativity- features & process - no process
