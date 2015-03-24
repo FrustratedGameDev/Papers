@@ -3,6 +3,8 @@ Develop: Double Fine's Schafer On 'Amnesia Fortnights' And The Pitfalls Of AAA
 
 By Simon Parkin
 
+[Link](http://www.gamasutra.com/view/news/120310/Develop_Double_Fines_Schafer_On_Amnesia_Fortnights_And_The_Pitfalls_Of_AAA.php)
+
 ## Notes
 - moving away from AAA to something less high-risk
 - talked about splitting the studio into smaller teams to each come up with a prototype for a possible game.
