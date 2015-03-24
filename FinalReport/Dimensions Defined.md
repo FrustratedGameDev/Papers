@@ -46,8 +46,12 @@
 	Job stability is something that is very important in today's society. As developers are humans and have families and lifestyles to support, it becomes more evident that job stability is valued. Across different industries, developers can expect a varied time period to be employed. Some industried have an expected risk associated with them, which often attracts employees.
    
 ### Turnover
-   
+   	
+   	Developers can easily get fed up with the work envrionments. This can cause them to leave their companies at high rates after staying at the company for a short amount of time resulting in high turnover. Low turnover can be defined as high retention rates for the company. 
+
 ### Work Ownership
+		
+	As a developer, it feels good to be acknowledged for the hardwork, responsibility, and accountability that is put into a product. This can be characterized as high work ownership. When a developer is not acknowledged for their contributions or made responsibile for their portion of a project  this can be characterized as low work ownership.
 
 ### Size
    -  Number of Developers working on Product 
