@@ -117,3 +117,15 @@ Dimensions Explained
    -  Number of Developers working on Product 
    -  Complexity of Product: How many features does it have?
    -  Number of Users: How many users does a product?
+
+## Challenges from v2
+
+* combine work ownership and job stability?
+* make 'Quality of developer life' dimension?
+    - job stability
+    - job turnover
+    - work ownership
+    - crunch
+* is size useful?
+* Requirements Engineering and Japapese papers rate exactly the same
+    - I (Anthony) suggest removing the Product Development in Japanese TV Game Software since it isn't adding anything.
