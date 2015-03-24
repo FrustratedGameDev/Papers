@@ -120,7 +120,9 @@ Dimensions Explained
 
 ## Challenges from v2
 
-* combine work ownership and job stability?
+* combine work ownership and job stability? No
+* work ownership and dev motivation are both like 'quality of work'
+   * Combine
 * make 'Quality of developer life' dimension?
     - job stability
     - job turnover
@@ -137,3 +139,4 @@ Dimensions Explained
       - Fun is hard to define/predict.
       - merge with Requirement Volatility -- discuss 'fun' in the Requirement section
    - motivation is developer motivation, how interested are the developers in creating the product?
+* 
