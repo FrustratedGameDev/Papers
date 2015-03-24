@@ -38,10 +38,12 @@ Dimensions Defined
    
 * Crunch
    
-   Crunch defines the time period before a shipping of a project where the developers are expected to work long hours.
+   Crunch defines the time period before a shipping of a project where the developers are expected to work long hours. 
    The length of the crunch varies across product. Extended crunches often lead to "Death Marches" where developers are too tired to produce quality code.
 
 * Job Stability
+	
+	Job stability is something that is very important in today's society. As developers are humans and have families and lifestyles to support, it becomes more evident that job stability is valued. Across different industries, developers can expect a varied time period to be employed. Some industried have an expected risk associated with them, which often attracts employees.
    
 * Turnover
    
