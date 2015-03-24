@@ -22,8 +22,9 @@ Dimensions Defined
    - what is the game for: entertainment or to solve problem and how does that effect the developer's interest?
    - people are interested in the art of creating games just as they are interested in the are of creating computer programs.
    
-* Creative v.s. Constructive
-   - keep same
+* Creativity
+   
+   Creativity refers to the encouragement of developers to start from scratch with a project versus building on top of a current codebase. This spectrum from creativity to constructivism varies upon audience addressed in the project.
 
 * Team composition
    - combine: high dev interaction vs low dev interaction  & team composition(team member movement aka "Anthony calls it viscosity") & multiple discipline teams vs individual discipline teams
