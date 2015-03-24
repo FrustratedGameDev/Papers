@@ -131,3 +131,8 @@ Dimensions Explained
 * Requirements Engineering and Japapese papers rate exactly the same
     - I (Anthony) suggest removing the Product Development in Japanese TV Game Software since it isn't adding anything.
     - Agreed, will remove.
+ * user interaction vs motivation
+   - user interaction / fun / engagement is hihgly valued in games and not in traditional software
+      - this fun causes less clear requirements which causes more iterations and more change in requirements.
+      - Fun is hard to define/predict.
+   - motivation is developer motivation, how interested are the developers in creating the product?
