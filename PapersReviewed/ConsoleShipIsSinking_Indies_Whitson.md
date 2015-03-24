@@ -1,5 +1,5 @@
- The ‘Console Ship is Sinking’ and What this Means for Indies
- ===
+The ‘Console Ship is Sinking’ and What this Means for Indies
+===
  
  Author:  Jennifer R. Whitson
 
