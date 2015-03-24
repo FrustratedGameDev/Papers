@@ -14,6 +14,9 @@
    During the process of the literature review it was found that there are circumstances where products have little to no documented testing strategy. Testing a product (both unit testing and system testing) is apart of the process of developing products to ensure that the user receives the best experience and continue to use the product. This dimension identifies whether there is a tesing framework in place.
  
 ### Motivation
+
+   The motivation of the developers..
+
    - combines entertainmen-solve problem dimension
    - could also mention a bit of the user impact dimension
    - what is the game for: entertainment or to solve problem and how does that effect the developer's interest?
@@ -24,8 +27,8 @@
    Creativity refers to the encouragement of developers to start from scratch with a project versus building on top of a current codebase. This spectrum from creativity to constructivism varies upon audience addressed in the project.
 
 ### Team composition
-   - combine: high dev interaction vs low dev interaction  & team composition(team member movement aka "Anthony calls it viscosity") & multiple discipline teams vs individual discipline teams
-   - also add organizational hierarchy: discuss it as close to fluid team movement. Fluid management
+
+   There are many aspects of a team that are covered in this dimension: (1) the variation of interactions between the team- having many interactions to none at all, (2) the viscosity - how often the developers switch teams, and (3) the number of projects a team may handle. These apects of a team have been defined on a spectrum of being dynamic to static. Fluid team movements is an example of an organizational hierarchy where all employees(management and developers) are able to flexible in their work and the company fully supports their movement as long as its productive.
 
 ### Funding
    - traditional funding() vs crowdfunding
