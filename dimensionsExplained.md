@@ -122,12 +122,12 @@ Dimensions Explained
 
 * combine work ownership and job stability? No
 * work ownership and dev motivation are both like 'quality of work'
-   * Combine
-* make 'Quality of developer life' dimension?
+   * Combine - leave as developer motivation
+* make 'Quality of life' dimension?
     - job stability
     - job turnover
-    - work ownership
     - crunch
+    - Agree, will combine into 'Quality of life'
 * is size useful?
    - No, we agree it is not.
 * Requirements Engineering and Japapese papers rate exactly the same
@@ -139,4 +139,3 @@ Dimensions Explained
       - Fun is hard to define/predict.
       - merge with Requirement Volatility -- discuss 'fun' in the Requirement section
    - motivation is developer motivation, how interested are the developers in creating the product?
-* 
