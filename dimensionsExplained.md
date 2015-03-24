@@ -127,5 +127,7 @@ Dimensions Explained
     - work ownership
     - crunch
 * is size useful?
+   - No, we agree it is not.
 * Requirements Engineering and Japapese papers rate exactly the same
     - I (Anthony) suggest removing the Product Development in Japanese TV Game Software since it isn't adding anything.
+    - Agreed, will remove.
