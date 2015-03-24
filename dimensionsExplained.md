@@ -135,4 +135,5 @@ Dimensions Explained
    - user interaction / fun / engagement is hihgly valued in games and not in traditional software
       - this fun causes less clear requirements which causes more iterations and more change in requirements.
       - Fun is hard to define/predict.
+      - merge with Requirement Volatility -- discuss 'fun' in the Requirement section
    - motivation is developer motivation, how interested are the developers in creating the product?
