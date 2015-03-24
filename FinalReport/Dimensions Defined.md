@@ -3,6 +3,8 @@ Dimensions Defined
 
 * Requirement Volatility
    - Combiness agile waterfal & creativity- features & process - no process
+
+   Requirement volatility describes the necessity of 
    
 * User Interactions
    - user challenge & user emotion & user fun & user engagement & user impact
@@ -35,6 +37,9 @@ Dimensions Defined
    
 * Crunch
    
+   Crunch defines the time period before a shipping of a project where the developers are expected to work long hours.
+   The length of the crunch varies across product. Extended crunches often lead to "Death Marches" where developers are too tired to produce quality code.
+
 * Job Stability
    
 * Turnover
