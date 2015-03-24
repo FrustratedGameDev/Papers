@@ -7,12 +7,11 @@
    
 ### User Interactions
 
-   - user challenge & user emotion & user fun & user engagement & user impact
-   - social interaction - Could be posed as a question at the end of the section.
-      - changed the way people game. the game continues to be played even when a specific user is missing. the same way conversations continue when someone leaves.
-   - Anthony has official quote somewhere
+   The interactions of the users of the product can change the approach of how the product is approached. If the developers know that the users would use the product as a learning tool the developers are inclined to feel more connected to the product. In oppositon, if the developers feel as though the product is for mere entertainment of the user they can be less inclined to contribute their efforts to the product. Making the developers aware of the challenges, emotions, levels of fun, and engagement that the user will come incontact with can produce a more motivated developer. These motivated developers create amazing products that they can be proud of.
    
 ### Testing
+ 
+   During the process of the literature review it was found that there are circumstances where produc
  - unit testing vs system testing & is there testing vs.no testing
  - can be defined overall do they have a lot of testing or just a little bit. What kind?
  
