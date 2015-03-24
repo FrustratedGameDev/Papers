@@ -11,9 +11,7 @@
    
 ### Testing
  
-   During the process of the literature review it was found that there are circumstances where produc
- - unit testing vs system testing & is there testing vs.no testing
- - can be defined overall do they have a lot of testing or just a little bit. What kind?
+   During the process of the literature review it was found that there are circumstances where products have little to no documented testing strategy. Testing a product (both unit testing and system testing) is apart of the process of developing products to ensure that the user receives the best experience and continue to use the product. This dimension identifies whether there is a tesing framework in place.
  
 ### Motivation
    - combines entertainmen-solve problem dimension
