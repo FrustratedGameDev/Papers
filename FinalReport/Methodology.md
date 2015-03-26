@@ -58,3 +58,101 @@ We had reviewed all references of the first two key articles at the beginning of
 The fourth article was a white paper that did not have a list of references and thus we did not cycle our process on this article.
 
 At the end of this process we had a list of dimensions that differentiated the papers from each other.
+
+
+## Determining Refining Process
+### GitHub Issue Labels
+We set up a flow of issue labels so we could easily identify what state each paper was in.
+
+Our original process was:
+
+1. Relevant Paper
+2. Summarize
+3. Adds Dimension
+4. Dimesion added to grid
+
+We started papers in step 0 and changed the labels as we made progress on each paper.  We decided that some papers were no longer useful at various stages of the process.  Whenever this happened, we marked that paper with our *Dead End* label and no longer considered it. Some papers might have been useful but for various reasons such as length or verbosity were hard to extract useful dimensions from.  We marked these papers with an *If time* label.  After processing all of our other papers we decided to change all papers with the 'If time' label to the 'Dead End' label since they would have taken a lot of time and not returned much value.
+
+Partway through our review we realized we needed another label before all the others for papers that had been added to the repo but we weren't sure if they were relevant or not. So we added a Step 0: Determine if relevant.
+
+Thus our full process was:
+
+0. Determine if relevant
+1. Relevant Paper
+2. Summarize
+3. Adds Dimension
+4. Dimesion added to grid
+
+We also created labels for 'Grid' and 'Writing' but did not define specific processes for them as we felt they generated more overhead then they provided value for the short time we needed them.
+
+### Adding Dimension to Grid
+At this point, each paper was listed in the repository complete with notes and the dimensions extracted from it. We considered a paper's dimensions and the dimensions that were already on the grid. If that dimension was not already on the grid then we added it to the grid. If the dimension was already present then skipped it and moved on to the next one.
+
+To add the dimension to the grid we had to rate each paper on that dimension.
+For instance, one dimension was 'developer motivation'. We would take each paper and rate it on a score of 1-5 to correspond to a spectrum along that dimension. So rating that paper with a 1 meant that that paper talked about low developer motivation and rating another paper with a 5 meant that it talked about high developer motivation.
+
+Ideally, a 3 would indicate that the paper did talk about that dimension but did not take a side on it. However, the tool we used to create the grid did not support marking certain ratings as not applicable and thus a 3 could either mean the paper was neutral on that dimension or it could mean that this dimesion does not apply to this paper.
+
+### Merging Dimensions on the Grid
+We started off with a lot of dimensions after reviewing all papers. Once all dimensions had been added to the grid we realized that some had the same meaning but different names.  We also realized that some dimensions simply weren't as relevant as we originally thought and thus we merged them with other dimensions or eliminated them. After the merge we realized that there were other dimensions that could be encapsulated in an abstracted idea.  For instance, 'job stability', 'job turnover', and 'crunch' were all merged into the more general 'quality of life'.
+
+#### Dimensions - Round 1
+Here are our list of original dimensions:
+
+* agile process vs waterfall process
+* process vs no process
+* entertainment vs solves problem
+* developer interaction with other developers
+* creative vs constructive
+* unit tests vs system tests
+* creativity vs features
+* user challenge
+* user emotion
+* user fun
+* multi-disciplined teams vs single-discipled teams
+* user engagement
+* documentation
+* team composition
+* organizational hierarchy
+* indie developer studios vs AAA studios
+* user impact
+* testing
+* crunch
+* social interaction
+* company size
+* case study vs empirical data
+* indies vs publisher
+* funding
+* medium games vs large games
+* job stability
+* job turnover
+* work ownership
+
+#### Dimensions - Round 2
+After merging, we resulted in the following list of dimensions:
+
+* requirement volatility
+* user interactions
+* testing
+* Developer motivation
+* creative vs constructive
+* team composition
+* funding
+* crunch
+* job stability
+* turnover
+* work ownership
+* size
+
+#### Dimensions - Round 3
+After combining from the previous round we actually found that two of our papers had the exact same ratings on the grid. This means that they didn't contain any unique dimensions captured in our grid and so we removed one paper from the grid. This paper was Product Development in Japanese TV Game Software [cite]. We again tried to capture the more general ideas behind the dimensions now that we had fewer to look at and were able to reduce down to the following list:
+
+* autonomy from funding
+* developer motivation
+* requirement volatility
+* team composition
+* testing
+* creative vs constructive
+* quality of life
+
+### Ranking Dimensions
