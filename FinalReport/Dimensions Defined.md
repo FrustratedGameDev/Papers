@@ -36,16 +36,17 @@
    You can consider this spectrum as how much  responsibility and accountability a company has over its own product. An example of this is Oracle as major mogul and Teklec being thesmall company: (1) Oracle buying all of Teklec and running teklec as Oracle v.s. (2) Oracle and Teklec running simultaneously and both Oracle and Tekelec are one in the same and share equal amounts of power v.s. (3) Teklec running individually receives funding from Oracle, yet Oracle still does not run any part of the company.
    [//]: # (   The spectrum of this dimension starts from (1)receiving all traditional funding from a company (where the investors own the company) to (2)receiving partial many money from a traditional source(where there is an equal balance of income and power in the company) to (3)having no connections to other companies and being completely self sustaining.)
 
-### Crunch
+### Quality of Life
+#### Crunch
    
    Crunch defines the time period before a shipping of a project where the developers are expected to work long hours. 
    The length of the crunch varies across product. Extended crunches often lead to "Death Marches" where developers are too tired to produce quality code.
 
-### Job Stability
+#### Job Stability
 	
    Job stability is something that is very important in today's society. As developers are humans and have families and lifestyles to support, it becomes more evident that job stability is valued. Across different industries, developers can expect a varied time period to be employed. Some industried have an expected risk associated with them, which often attracts employees.
    
-### Turnover
+#### Turnover
    	
    Developers can easily get fed up with the work envrionments. This can cause them to leave their companies at high rates after staying at the company for a short amount of time resulting in high turnover. Low turnover can be defined as high retention rates for the company. 
 
