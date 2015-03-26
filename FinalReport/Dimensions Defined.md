@@ -53,7 +53,5 @@
 		
    As a developer, it feels good to be acknowledged for the hardwork, responsibility, and accountability that is put into a product. This can be characterized as high work ownership. When a developer is not acknowledged for their contributions or made responsibile for their portion of a project  this can be characterized as low work ownership.
 
-### Size
-	
-   The size of a system constitutes of 3 aspects: (1) The number of develpers working on a product, (2) the complexity of a product's features, and (3) number of users for a product. All of these factors can contribute to the stress of a developer. As each of these aspects of size increase so does the activities of a devloper.
+
    
