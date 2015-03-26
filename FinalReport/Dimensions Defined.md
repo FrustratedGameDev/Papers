@@ -5,22 +5,18 @@
 
    Requirement volatility describes how often the requirements of a project change. This dimension was inspired by agile and waterfall comparison of iterative development. The process of which products are developed vary across the companies. In some circumstances the process if fully up to the team, for others it comes from upper management.
    
-### User Interactions
-
-   The interactions of the users of the product can change the approach of how the product is approached. If the developers know that the users would use the product as a learning tool the developers are inclined to feel more connected to the product. In oppositon, if the developers feel as though the product is for mere entertainment of the user they can be less inclined to contribute their efforts to the product. Making the developers aware of the challenges, emotions, levels of fun, and engagement that the user will come incontact with can produce a more motivated developer. These motivated developers create amazing products that they can be proud of.
-   
 ### Testing
  
    During the process of the literature review it was found that there are circumstances where products have little to no documented testing strategy. Testing a product (both unit testing and system testing) is apart of the process of developing products to ensure that the user receives the best experience and continue to use the product. This dimension identifies whether there is a tesing framework in place.
  
 ### Developer Motivation
+#### User Interactions
 
-   The motivation of the developers..
+   The interactions of the users of the product can change the approach of how the product is approached. If the developers know that the users would use the product as a learning tool the developers are inclined to feel more connected to the product. In oppositon, if the developers feel as though the product is for mere entertainment of the user they can be less inclined to contribute their efforts to the product. Making the developers aware of the challenges, emotions, levels of fun, and engagement that the user will come incontact with can produce a more motivated developer. These motivated developers create amazing products that they can be proud of.
 
-   - combines entertainmen-solve problem dimension
-   - could also mention a bit of the user impact dimension
-   - what is the game for: entertainment or to solve problem and how does that effect the developer's interest?
-   - people are interested in the art of creating games just as they are interested in the are of creating computer programs.
+#### Work Ownership
+		
+   As a developer, it feels good to be acknowledged for the hardwork, responsibility, and accountability that is put into a product. This can be characterized as high work ownership. When a developer is not acknowledged for their contributions or made responsibile for their portion of a project  this can be characterized as low work ownership.
    
 ### Creativity 
    
@@ -50,9 +46,3 @@
    	
    Developers can easily get fed up with the work envrionments. This can cause them to leave their companies at high rates after staying at the company for a short amount of time resulting in high turnover. Low turnover can be defined as high retention rates for the company. 
 
-### Work Ownership
-		
-   As a developer, it feels good to be acknowledged for the hardwork, responsibility, and accountability that is put into a product. This can be characterized as high work ownership. When a developer is not acknowledged for their contributions or made responsibile for their portion of a project  this can be characterized as low work ownership.
-
-
-   
