@@ -156,3 +156,11 @@ After combining from the previous round we actually found that two of our papers
 * quality of life
 
 ### Ranking Dimensions
+The next step was to see if any dimensions were more important than other dimensions.  At the general level we started by pulling out the most important dimension. Then we chose the next important and the third most important. Left with four dimensions, we were unable to determine if one was more important than the others so we instead reversed and chose the one that was least important. We continued choosing the least important dimension until we had an ordered list of dimensions by their importance.
+
+## Repertory Grid Tool
+We used a website called 'Repertory Grid Tool' (http://repertorygridtool.com/) to create our grid and run analysis on it. We considered creating the grid in Microsoft Excel but realized that the website did all of the analysis for us and so we put all of our work into the website. 
+
+However, the website was limiting in some aspects. As already mentioned, the website did not allow us to mark specific intersections of a dimension and paper as not applicable. Additionally, the website only displayed about 15 characters in each cell of the grid, which is insufficient for both long paper titles and long dimension names.  Limitations aside, the website saved us a lot of time in generating the analysis of the grid.
+
+We used the website to automatically compute cluster analysis to determine similarity amongst the dimensions as well as similarity of the papers. As mentioned previously, this analysis helped us to determine if a paper added unique value to our review. It also showed us which papers were most similar to each other (in clusters). This would be useful to someone new to the field of game development as they could simplly read one paper from each cluster and get a broad understanding of the field without doing an extensive literature review.
