@@ -4,6 +4,10 @@
 
    Requirement volatility describes how often the requirements of a project change. This dimension was inspired by agile and waterfall comparison of iterative development. The process of which products are developed vary across the companies. In some circumstances the process if fully up to the team, for others it comes from upper management.
    
+   During the design phase their are elements of the product that are considered a higher value. 
+   In games, a valued part of the product is how engaging and 'fun' the product is for the user; more than it does in traditional software development. 
+   Due to the fact that fun can vary upon many variables and is difficult to predict, the requirements and expectations of the product will vary as well.
+   
 ### Testing
  
    During the process of the literature review it was found that there are circumstances where products have little to no documented testing strategy. Testing a product (both unit testing and system testing) is apart of the process of developing products to ensure that the user receives the best experience and continue to use the product. This dimension identifies whether there is a tesing framework in place.
