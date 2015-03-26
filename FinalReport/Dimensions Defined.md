@@ -13,7 +13,7 @@
  
    During the process of the literature review it was found that there are circumstances where products have little to no documented testing strategy. Testing a product (both unit testing and system testing) is apart of the process of developing products to ensure that the user receives the best experience and continue to use the product. This dimension identifies whether there is a tesing framework in place.
  
-### Motivation
+### Developer Motivation
 
    The motivation of the developers..
 
@@ -22,7 +22,7 @@
    - what is the game for: entertainment or to solve problem and how does that effect the developer's interest?
    - people are interested in the art of creating games just as they are interested in the are of creating computer programs.
    
-### Creativity
+### Creativity 
    
    Creativity refers to the encouragement of developers to start from scratch with a project versus building on top of a current codebase. This spectrum from creativity to constructivism varies upon audience addressed in the project.
 
@@ -30,7 +30,7 @@
 
    There are many aspects of a team that are covered in this dimension: (1) the variation of interactions between the team- having many interactions to none at all, (2) the viscosity - how often the developers switch teams, and (3) the number of projects a team may handle. These apects of a team have been defined on a spectrum of being dynamic to static. Fluid team movements is an example of an organizational hierarchy where all employees(management and developers) are able to flexible in their work and the company fully supports their movement as long as its productive.
 
-### Funding
+### Autonomy for Funding
 
    The traditional funding source for projects has been funding from venture captilalists and other investors who are intersted in receiving some return from the product such as being a valued stakeholder of the company. Recently, crowdfunding has been trending as a way to receive donated money with no strings attached, eventhough it may not complete all the finacial needs of the company. 
    You can consider this spectrum as how much  responsibility and accountability a company has over its own product. An example of this is Oracle as major mogul and Teklec being thesmall company: (1) Oracle buying all of Teklec and running teklec as Oracle v.s. (2) Oracle and Teklec running simultaneously and both Oracle and Tekelec are one in the same and share equal amounts of power v.s. (3) Teklec running individually receives funding from Oracle, yet Oracle still does not run any part of the company.
