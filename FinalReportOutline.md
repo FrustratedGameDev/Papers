@@ -1,5 +1,7 @@
 #CS 510 Final Report Outline
 
+##Goals
+
 ##Introduction
 
 - Compare Software Development to Games Development
@@ -49,6 +51,8 @@
 
 - What does the repgrid provide for the research community
 - What are the next steps to a study 
+
+##Future Work
 
 ##References
 - Add all the papers from the large cluster analysis repgrid  FinalRepGrid03223_02.svg
