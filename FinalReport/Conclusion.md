@@ -6,3 +6,4 @@ In our study we identified papers that identified the frustrations of a games de
 Through this review of the literature we were able to define and finalize 6 distinct dimensions: Requirement Volatility, Developer Motivation, Creativity, Team Composition, Autonomy for Funding, and Quality of Life. 
 These dimensions that we have defined have outlined implications that can affect both games developers and software developers.
 One of these implications lead to expanding this Repertory Grid Analysis to the comparison of software developers and games developers.
+We expect that this qualitative analysis of the literature will continue to be a valued approach to defining differences across an environment.
