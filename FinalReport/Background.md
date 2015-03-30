@@ -1,0 +1,7 @@
+# Background
+
+## Literature Review
+Before starting our review, we reviewed literature on how to set up a literature review. One such resource by Hall et al. [cite] was very valuable to us in this regard.  Hall had defined research questions *before* starting the review which allowed them to be very structured in their review. Hall showed us how to start with a large number of papers and cut that number down to a reasonable number to review.
+
+## Repertory Grid Analysis
+Before starting our review, we were encouraged to conduct a repertory grid analysis to communicate our results. Thus we reviewed literature on how to conduct such an analysis. Menzies et al. [cite] have published work that includes a repertory grid analysis and was very helpful in our review. Menzies used the repertory grid to distinguish certain characteristics, or dimension, about an idea. A new row of dimensions is only added if it helps distinguish differences of that idea. Each row is identified by a dimension and has a description for each end of the spectrum. One end of the spectrum is low and the other end is high. Each paper should be rated for each dimension on the spectrum from low to high. Additionally, each row is weighted such that more important differences can be appropriately factored into the analysis. The final grid allows conclusions to be made about the differences between the reviewed papers.
