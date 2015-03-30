@@ -2,8 +2,6 @@
 
 ##Goals
 
-##Introduction
-
 - Compare Software Development to Games Development
 - Discuss ultimate findings in performing a RepGrid Analysis
 - 	What repgrid are usually used for and 
