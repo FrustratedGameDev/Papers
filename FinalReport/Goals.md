@@ -1,0 +1,6 @@
+# Goals
+Game development shares some of the same things as traditional software engineering but also differs in several ways [cite Cowboys]. For example, Murphy-Hill et al. [cite Cowboys] showed that tension "between creative desires and technical constraints" is much more prevalent in games development than traditional software. 
+
+We wanted to find out what other frustrations game developers experience. Additionally, we wanted to find out if and how game developer frustrations differ from the frustrations of traditional software developers. We also wanted to see how these frustrations stunt productivity. Our final goal was to see what is being done to mitigate these frustrations.
+
+In order to accomplish these goals, we conducted a literature review. After performing our literature review, we present our findings in this paper. Our findings are presented in the form of a repertory grid analysis [cite]. Such an analysis allows us to concisely convey the differences we found between game developers and software developers.
