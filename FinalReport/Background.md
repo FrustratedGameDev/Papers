@@ -1,5 +1,8 @@
 # Background
 
+## Motivation
+Both authors have an interest in these fields and wanted to gain a better understanding of the this area. There are some papers (notably [cite Cowboys]) which provide differences between game developers and traditional software developers, but that work lacks research on the qualitative lifestyle of each. Both authors wanted to understand where future effort could be best applied for games research and desired to contribute this to the research community.
+
 ## Literature Review
 Before starting our review, we reviewed literature on how to set up a literature review. One such resource by Hall et al. [cite] was very valuable to us in this regard.  Hall had defined research questions *before* starting the review which allowed them to be very structured in their review. Hall showed us how to start with a large number of papers and cut that number down to a reasonable number to review.
 
