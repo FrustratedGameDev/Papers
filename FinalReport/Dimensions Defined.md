@@ -9,6 +9,9 @@
    Due to the fact that fun can vary upon many variables and is difficult to predict, the requirements and expectations of the product will vary as well.
 
 ### Quality of Life
+
+   This dimension outlines the general lifestyle of developers. The pressures of crunch while on the job, maintaining a stable job, and the desire to remain at the company all can be encompassed into the quality of life in this career.
+
 #### Crunch
    
    Crunch defines the time period before a shipping of a project where the developers are expected to work long hours. 
@@ -27,6 +30,9 @@
    Creativity refers to the encouragement of developers to start from scratch with a project versus building on top of a current codebase. This spectrum from creativity to constructivism varies upon audience addressed in the project.
 
 ### Developer Motivation
+
+   With every profession there are certain aspects that draw interest. These interests for developers can be motovated by the actual product and the opportunity to interact with that product and it's users.
+
 #### User Interactions
 
    The interactions of the users of the product can change the approach of how the product is approached. If the developers know that the users would use the product as a learning tool the developers are inclined to feel more connected to the product. In oppositon, if the developers feel as though the product is for mere entertainment of the user they can be less inclined to contribute their efforts to the product. Making the developers aware of the challenges, emotions, levels of fun, and engagement that the user will come incontact with can produce a more motivated developer. These motivated developers create amazing products that they can be proud of.
