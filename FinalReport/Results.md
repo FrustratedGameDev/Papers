@@ -1,13 +1,10 @@
 #Results
 
-- Determining Weight
-- Ranking Dimensions
-- Determining Rank (Frequency or Importance)
-- Show the final Paper Comparison Grid
-- Show the final Developer Comparison Grid
+In this section we will discuss the results from our systematic literature review. 
+This project presented us with a repertory grid that compares the dimensions defined from the review.
 
 ##Dimension Defined
- - filled in from other md.
+ - can be filled in from Dimension Defined .md file
 
 ##Weighted Dimensions
 
