@@ -22,7 +22,7 @@ To do this we first identified the most discussed dimensions which were found to
 After carefully determining  the comparision of the high valued groups we moved onto Testing, Team Composition, and Autonomy from Funding. 
 In comparison to each other, this small subset were all determined to be on the same tier. There was not distinctive information provided on these categories to give one a heavier weight than the other.
 
-<img src="https://github.com/FrustratedGameDev/Papers/blob/master/Grid/weightadjuster.png">
+<img src="https://github.com/FrustratedGameDev/Papers/blob/master/Grid/WeightAdjuster.png">
 
 The tool 'Prioritze Concerns' feature of the Repertory Grid tool supported our adjustment of the weights. 
 This feature of the tool ensured that the value of the weights always summed to 100 and reflected the difference between dimensions as discussed between colloborators.
