@@ -286,7 +286,9 @@ A key paper from our literature reivew[cite:Murphy, Cowboys] has been recognized
 There is more to the development of games than the design process. 
 A detailed review of the design process would present how the design process in games affects the developers. 
 Just as previous researchers have refined what and how the social aspects of being a developer modifies the process[cite:programmer interrupted, exploring frustration, some SO study], we expect this paper to encourage the same for the games industry.
-As an industry that is so similar and highly valued, the games industry will benefit highly from a deeper analysis of the games lifestyle.# Future Work
+As an industry that is so similar and highly valued, the games industry will benefit highly from a deeper analysis of the games lifestyle.
+
+# Future Work
 
 In defining these dimensions during the repertory grid analysis we were able to define the many ways that software development compares to games development.
 This literature review provides a qualitative comparision and implies that there are multiple ways that development can be approached to achieve a product.
