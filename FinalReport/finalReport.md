@@ -294,7 +294,7 @@ In defining these dimensions during the repertory grid analysis we were able to 
 This literature review provides a qualitative comparision and implies that there are multiple ways that development can be approached to achieve a product.
 Implications from this work also include that there should be similar analysis to compare the amount of research approached in other software fields.
 
-![Future Work Repertory Grid Comparing General Software Development to Game Development](https://github.com/FrustratedGameDev/Papers/blob/master/Grid/CSC510Grid2.svg)
+![Future Work Repertory Grid Comparing General Software Development to Game Development](https://github.com/FrustratedGameDev/Papers/blob/master/Grid/CSC510Grid2.png)
 
 #Conclusion
 
