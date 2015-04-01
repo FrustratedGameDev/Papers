@@ -8,6 +8,7 @@ We wanted to find out what other frustrations game developers experience. Additi
 
 In order to accomplish these goals, we conducted a literature review. After performing our literature review, we present our findings in this paper. Our findings are presented in the form of a repertory grid analysis as demonstrated by Menzies et al. [5]. Such an analysis allows us to concisely convey the differences we found between game developers and software developers.
 
+
 # Background
 
 ## Motivation
@@ -20,26 +21,16 @@ Before starting our review, we reviewed literature on how to set up a literature
 Before starting our review, we were encouraged to conduct a repertory grid analysis to communicate our results. Thus we reviewed literature on how to conduct such an analysis. Menzies et al. [5] have published work that includes a repertory grid analysis and was very helpful in our review. Menzies used the repertory grid to distinguish certain characteristics, or dimension, about an idea. A new row of dimensions is only added if it helps distinguish differences of that idea. Each row is identified by a dimension and has a description for each end of the spectrum. One end of the spectrum is low and the other end is high. Each paper should be rated for each dimension on the spectrum from low to high. Additionally, each row is weighted such that more important differences can be appropriately factored into the analysis. The final grid allows conclusions to be made about the differences between the reviewed papers.
 
 # Methodology
-In this section we describe the process of our literature review.
-First we identified a few papers that we used to seed our review.
-Secondly, we used those papers to compile a list of potentially relevant papers.
-We then used a set of relevancy rules to determine if those papers were relevant or not.
-Throughout this process we identified a few papers as *key papers* that were indispensible in our review.
-After reviewing all papers we performed a *repertory grid analysis* to help us reason about our review as a whole.
+In this section we describe the process of our literature review. First we identified a few papers that we used to seed our review. Secondly, we used those papers to compile a list of potentially relevant papers. We then used a set of relevancy rules to determine if those papers were relevant or not. Throughout this process we identified a few papers as *key papers* that were indispensible in our review. After reviewing all papers we performed a *repertory grid analysis* to help us reason about our review as a whole.
 The end result are important distinctions between game development and traditional software development.
 
 
 ## Step 1: Determining Seed Papers
-Initially our search was to review literature around the frustrations of developers caused by development environments such as Eclipse, with the intention of comparing game development environments to traditional software development environments.
-We used two papers we were very familiar with: one by Murphy-Hill et al. on differences between game development and traditional software development and a second by Ko et al. on the learning barriers encountered in development. 
-We shifted our focus to be more general and to review literature around game development and how it differs from traditional software development.
-As a result of this focus change, we replaced the seed paper on learning barriers with a magazine article by Blow. Blow's article gave us insight into what it meant to be a game developer.
-We then compiled all references from these two papers into a list of potentially relevant papers.
+Initially our search was to review literature around the frustrations of developers caused by development environments such as Eclipse, with the intention of comparing game development environments to traditional software development environments. We used two papers we were very familiar with: one by Murphy-Hill et al. on differences between game development and traditional software development and a second by Ko et al. on the learning barriers encountered in development. We shifted our focus to be more general and to review literature around game development and how it differs from traditional software development. As a result of this focus change, we replaced the seed paper on learning barriers with a magazine article by Blow. Blow's article gave us insight into what it meant to be a game developer. We then compiled all references from these two papers into a list of potentially relevant papers.
 
 
 ## Step 2: Determining Relevant Papers
-We took this list of potentially relevant papers and determine which were relevant based on a set of rules we developed.
-If the paper met all of the below rules then we classified it as relevant and added it to our GitHub repository.
+We took this list of potentially relevant papers and determine which were relevant based on a set of rules we developed. If the paper met all of the below rules then we classified it as relevant and added it to our GitHub repository.
 
 ### Relevancy Rules
 1. Does the paper discuss the development process?
@@ -49,12 +40,10 @@ If the paper met all of the below rules then we classified it as relevant and ad
 
 
 ## Step 3: Extracting Dimensions
-Our goal is to determine what each paper is about and then compare the papers to each other.
-In order to do this we extracted a *dimension* from every paper.
+Our goal is to determine what each paper is about and then compare the papers to each other. In order to do this we extracted a *dimension* from every paper.
 
 ### Reading Abstracts
-After we compiled a list of relevant papers, we read through all of the abstracts, took some notes, and added them to our GitHub repository.
-On some of them, we were able to extract a dimension from just the abstract, and if so, we noted that dimension in the repository.
+After we compiled a list of relevant papers, we read through all of the abstracts, took some notes, and added them to our GitHub repository. On some of them, we were able to extract a dimension from just the abstract, and if so, we noted that dimension in the repository.
 
 ### Reading in Depth
 If we could not extract a dimension from just the abstract, or if the paper seemed especially useful, we marked it for in depth reading. 
@@ -184,7 +173,10 @@ We used a website called 'Repertory Grid Tool' (http://repertorygridtool.com/) t
 
 However, the website was limiting in some aspects. As already mentioned, the website did not allow us to mark specific intersections of a dimension and paper as not applicable. Additionally, the website only displayed about 15 characters in each cell of the grid, which is insufficient for both long paper titles and long dimension names.  Limitations aside, the website saved us a lot of time in generating the analysis of the grid.
 
-We used the website to automatically compute cluster analysis to determine similarity amongst the dimensions as well as similarity of the papers. As mentioned previously, this analysis helped us to determine if a paper added unique value to our review. It also showed us which papers were most similar to each other (in clusters). This would be useful to someone new to the field of game development as they could simplly read one paper from each cluster and get a broad understanding of the field without doing an extensive literature review.#Results
+We used the website to automatically compute cluster analysis to determine similarity amongst the dimensions as well as similarity of the papers. As mentioned previously, this analysis helped us to determine if a paper added unique value to our review. It also showed us which papers were most similar to each other (in clusters). This would be useful to someone new to the field of game development as they could simplly read one paper from each cluster and get a broad understanding of the field without doing an extensive literature review.
+
+
+#Results
 
 In this section we will discuss the results from our systematic literature review. 
 This project presented us with a repertory grid that compares the dimensions defined from the review.
@@ -316,10 +308,6 @@ One of these implications lead to expanding this Repertory Grid Analysis to the 
 We expect that this qualitative analysis of the literature will continue to be a valued approach to defining differences across an environment.
 
 # References
-
-- Add all the papers from the large cluster analysis repgrid  FinalRepGrid03223_02.svg
-- Add papers that discussed what a repgrid is.
-
  
 [1]: Tracy Hall, Sarah Beecham, David Bowes, David Gray, and Steve Counsell. 2012. A Systematic Literature Review on Fault Prediction Performance in Software Engineering. IEEE Trans. Softw. Eng. 38, 6 (November 2012), 1276-1304.
 
