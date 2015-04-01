@@ -6,18 +6,18 @@ Game development shares some of the same things as traditional software engineer
 
 We wanted to find out what other frustrations game developers experience. Additionally, we wanted to find out if and how game developer frustrations differ from the frustrations of traditional software developers. We also wanted to see how these frustrations stunt productivity. Our final goal was to see what is being done to mitigate these frustrations.
 
-In order to accomplish these goals, we conducted a literature review. After performing our literature review, we present our findings in this paper. Our findings are presented in the form of a repertory grid analysis [cite]. Such an analysis allows us to concisely convey the differences we found between game developers and software developers.
+In order to accomplish these goals, we conducted a literature review. After performing our literature review, we present our findings in this paper. Our findings are presented in the form of a repertory grid analysis as demonstrated by Menzies et al. [5]. Such an analysis allows us to concisely convey the differences we found between game developers and software developers.
 
 # Background
 
 ## Motivation
-Both authors have an interest in these fields and wanted to gain a better understanding of the this area. There are some papers (notably [cite Cowboys]) which provide differences between game developers and traditional software developers, but that work lacks research on the qualitative lifestyle of each. Both authors wanted to understand where future effort could be best applied for games research and desired to contribute this to the research community.
+Both authors have an interest in these fields and wanted to gain a better understanding of the this area. There are some papers (notably [4]) which provide differences between game developers and traditional software developers, but that work lacks research on the qualitative lifestyle of each. Both authors wanted to understand where future effort could be best applied for games research and desired to contribute this to the research community.
 
 ## Literature Review
-Before starting our review, we reviewed literature on how to set up a literature review. One such resource by Hall et al. [cite] was very valuable to us in this regard.  Hall had defined research questions *before* starting the review which allowed them to be very structured in their review. Hall showed us how to start with a large number of papers and cut that number down to a reasonable number to review.
+Before starting our review, we reviewed literature on how to set up a literature review. One such resource by Hall et al. [1] was very valuable to us in this regard.  Hall had defined research questions *before* starting the review which allowed them to be very structured in their review. Hall showed us how to start with a large number of papers and cut that number down to a reasonable number to review.
 
 ## Repertory Grid Analysis
-Before starting our review, we were encouraged to conduct a repertory grid analysis to communicate our results. Thus we reviewed literature on how to conduct such an analysis. Menzies et al. [cite] have published work that includes a repertory grid analysis and was very helpful in our review. Menzies used the repertory grid to distinguish certain characteristics, or dimension, about an idea. A new row of dimensions is only added if it helps distinguish differences of that idea. Each row is identified by a dimension and has a description for each end of the spectrum. One end of the spectrum is low and the other end is high. Each paper should be rated for each dimension on the spectrum from low to high. Additionally, each row is weighted such that more important differences can be appropriately factored into the analysis. The final grid allows conclusions to be made about the differences between the reviewed papers.
+Before starting our review, we were encouraged to conduct a repertory grid analysis to communicate our results. Thus we reviewed literature on how to conduct such an analysis. Menzies et al. [5] have published work that includes a repertory grid analysis and was very helpful in our review. Menzies used the repertory grid to distinguish certain characteristics, or dimension, about an idea. A new row of dimensions is only added if it helps distinguish differences of that idea. Each row is identified by a dimension and has a description for each end of the spectrum. One end of the spectrum is low and the other end is high. Each paper should be rated for each dimension on the spectrum from low to high. Additionally, each row is weighted such that more important differences can be appropriately factored into the analysis. The final grid allows conclusions to be made about the differences between the reviewed papers.
 
 # Methodology
 In this section we describe the process of our literature review.
@@ -68,10 +68,10 @@ In addition to the original two seed articles, we discovered two more articles t
 
 The key articles were:
 
-1. Cowboys, Ankle Sprains, and Keepers of Quality: How Is Video Game Development Different from Software Development?
-2. Game Development: Harder Than You Think
-3. The 'Console Ship is Sinking' and What this Means for Indies
-4. International Game Developers Association. (2004). Quality of life white paper
+1. Cowboys, Ankle Sprains, and Keepers of Quality: How Is Video Game Development Different from Software Development? [4]
+2. Game Development: Harder Than You Think [7]
+3. The 'Console Ship is Sinking' and What this Means for Indies [8]
+4. International Game Developers Association. (2004). Quality of life white paper [9]
 
 ### Reviewing References
 We had reviewed all references of the first two key articles at the beginning of our review. When we encountered the third article we restarted from Step 1. We reviewed all references and added them to a list of potentially relevant papers. We then continued to Step 2 to determine which papers were relevant and then to Step 3 where we extracted dimensions.
@@ -166,7 +166,7 @@ After merging, we resulted in the following list of dimensions:
 * size
 
 #### Dimensions - Round 3
-After combining from the previous round we actually found that two of our papers had the exact same ratings on the grid. This means that they didn't contain any unique dimensions captured in our grid and so we removed one paper from the grid. This paper was Product Development in Japanese TV Game Software [cite]. We again tried to capture the more general ideas behind the dimensions now that we had fewer to look at and were able to reduce down to the following list:
+After combining from the previous round we actually found that two of our papers had the exact same ratings on the grid. This means that they didn't contain any unique dimensions captured in our grid and so we removed one paper from the grid. This paper was Product Development in Japanese TV Game Software [6]. We again tried to capture the more general ideas behind the dimensions now that we had fewer to look at and were able to reduce down to the following list:
 
 * autonomy from funding
 * developer motivation
@@ -330,3 +330,11 @@ We expect that this qualitative analysis of the literature will continue to be a
 [4]: Emerson Murphy-Hill, Thomas Zimmermann, Nachiappan Nagappan. Cowboys, Ankle Sprains, and Keepers of Quality: How Is Video Game Development Different from Software Development?. In Proceedings of the 36th International Conference on Software Engineering (ICSE 2014), Hyderabad, India, June 2014.
 
 [5]: Menzies, Tim and Pearce, Adrian and Heinze, Clinton and Goss, Simon. What is an agent and why should I care? Appears in Formal Approaches to Agent-Based Systems, 2003, 1-14
+
+[6]: YASUNORI BABA and F. TED TSCHANG, PRODUCT DEVELOPMENT IN JAPANESE TV GAME SOFTWARE: THE CASE OF AN INNOVATIVE GAME. Int. J. Innov. Mgt. 05, 487 (2001). DOI: 10.1142/S1363919601000464
+
+[7]:  J. Blow, "Game Development: Harder Than You Think," IEEE Software, pp. 28-37, February 2004
+
+[8]: WHITSON, J.. The 'Console Ship is Sinking' and What this Means for Indies. Loading..., North America, 7, dec. 2012. Available at: http://journals.sfu.ca/loading/index.php/loading/article/view/125. Date accessed: 01 Apr. 2015.
+
+[9]: International Game Developers Association. Quality of Life in the Game Industry: Challenges and Best Practices. Published online April 20, 2004.
