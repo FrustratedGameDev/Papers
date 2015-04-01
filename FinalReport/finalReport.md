@@ -246,7 +246,7 @@ As the final grid was generated and similar dimensions were combined, the author
 During this process we valued <i>importance</i> over <i>frequency</i>.
 Frequency refers to the amount of times an article discussed a dimension and importance refers to how much depth the article discussed a particular topic.
 
-<img src="https://github.com/FrustratedGameDev/Papers/blob/master/Grid/cluster_v3.png">
+![Repertory Grid Version 3 without weights](https://github.com/FrustratedGameDev/Papers/blob/master/Grid/cluster_v3.png)
 
 For the final repertory grid, we decided to rank them as follows:  Requirement Volatility(25) , Quality of Life(21), Creativity(16), Developer Motivation(11), Testing(9), Team Composition(9), and Autonomy from Funding(9). 
 When determining the weights, the goal was to make sure that the sum of all dimensions was 100. 
@@ -255,12 +255,12 @@ To do this we first identified the most discussed dimensions which were found to
 After carefully determining  the comparision of the high valued groups we moved onto Testing, Team Composition, and Autonomy from Funding. 
 In comparison to each other, this small subset were all determined to be on the same tier. There was not distinctive information provided on these categories to give one a heavier weight than the other.
 
-<img src="https://github.com/FrustratedGameDev/Papers/blob/master/Grid/WeightAdjuster.png">
+![Image of the Weight Adjustment Tool](https://github.com/FrustratedGameDev/Papers/blob/master/Grid/WeightAdjuster.png)
 
 The tool 'Prioritze Concerns' feature of the Repertory Grid tool supported our adjustment of the weights. 
 This feature of the tool ensured that the value of the weights always summed to 100 and reflected the difference between dimensions as discussed between colloborators.
 
-<img src="https://github.com/FrustratedGameDev/Papers/blob/master/Grid/weightedCluster.png">
+![Repertory Grid Version 3 with weights](https://github.com/FrustratedGameDev/Papers/blob/master/Grid/weightedCluster.png)
 
 # Discussion
 
