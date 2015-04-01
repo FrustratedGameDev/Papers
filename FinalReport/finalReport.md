@@ -1,9 +1,14 @@
+Title
+===
+
 # Goals
-Game development shares some of the same things as traditional software engineering but also differs in several ways [cite Cowboys]. For example, Murphy-Hill et al. [cite Cowboys] showed that tension "between creative desires and technical constraints" is much more prevalent in games development than traditional software. 
+Game development shares some of the same things as traditional software engineering but also differs in several ways [4]. For example, Murphy-Hill et al. [4] showed that tension "between creative desires and technical constraints" is much more prevalent in games development than traditional software. 
 
 We wanted to find out what other frustrations game developers experience. Additionally, we wanted to find out if and how game developer frustrations differ from the frustrations of traditional software developers. We also wanted to see how these frustrations stunt productivity. Our final goal was to see what is being done to mitigate these frustrations.
 
-In order to accomplish these goals, we conducted a literature review. After performing our literature review, we present our findings in this paper. Our findings are presented in the form of a repertory grid analysis [cite]. Such an analysis allows us to concisely convey the differences we found between game developers and software developers.# Background
+In order to accomplish these goals, we conducted a literature review. After performing our literature review, we present our findings in this paper. Our findings are presented in the form of a repertory grid analysis [cite]. Such an analysis allows us to concisely convey the differences we found between game developers and software developers.
+
+# Background
 
 ## Motivation
 Both authors have an interest in these fields and wanted to gain a better understanding of the this area. There are some papers (notably [cite Cowboys]) which provide differences between game developers and traditional software developers, but that work lacks research on the qualitative lifestyle of each. Both authors wanted to understand where future effort could be best applied for games research and desired to contribute this to the research community.
@@ -12,7 +17,9 @@ Both authors have an interest in these fields and wanted to gain a better unders
 Before starting our review, we reviewed literature on how to set up a literature review. One such resource by Hall et al. [cite] was very valuable to us in this regard.  Hall had defined research questions *before* starting the review which allowed them to be very structured in their review. Hall showed us how to start with a large number of papers and cut that number down to a reasonable number to review.
 
 ## Repertory Grid Analysis
-Before starting our review, we were encouraged to conduct a repertory grid analysis to communicate our results. Thus we reviewed literature on how to conduct such an analysis. Menzies et al. [cite] have published work that includes a repertory grid analysis and was very helpful in our review. Menzies used the repertory grid to distinguish certain characteristics, or dimension, about an idea. A new row of dimensions is only added if it helps distinguish differences of that idea. Each row is identified by a dimension and has a description for each end of the spectrum. One end of the spectrum is low and the other end is high. Each paper should be rated for each dimension on the spectrum from low to high. Additionally, each row is weighted such that more important differences can be appropriately factored into the analysis. The final grid allows conclusions to be made about the differences between the reviewed papers.# Methodology
+Before starting our review, we were encouraged to conduct a repertory grid analysis to communicate our results. Thus we reviewed literature on how to conduct such an analysis. Menzies et al. [cite] have published work that includes a repertory grid analysis and was very helpful in our review. Menzies used the repertory grid to distinguish certain characteristics, or dimension, about an idea. A new row of dimensions is only added if it helps distinguish differences of that idea. Each row is identified by a dimension and has a description for each end of the spectrum. One end of the spectrum is low and the other end is high. Each paper should be rated for each dimension on the spectrum from low to high. Additionally, each row is weighted such that more important differences can be appropriately factored into the analysis. The final grid allows conclusions to be made about the differences between the reviewed papers.
+
+# Methodology
 In this section we describe the process of our literature review.
 First we identified a few papers that we used to seed our review.
 Secondly, we used those papers to compile a list of potentially relevant papers.
@@ -307,15 +314,19 @@ Through this review of the literature we were able to define and finalize 6 dist
 These dimensions that we have defined have outlined implications that can affect both games developers and software developers.
 One of these implications lead to expanding this Repertory Grid Analysis to the comparison of software developers and games developers.
 We expect that this qualitative analysis of the literature will continue to be a valued approach to defining differences across an environment.
+
 # References
 
 - Add all the papers from the large cluster analysis repgrid  FinalRepGrid03223_02.svg
 - Add papers that discussed what a repgrid is.
 
  
-Tracy Hall, Sarah Beecham, David Bowes, David Gray, and Steve Counsell. 2012. A Systematic Literature Review on Fault Prediction Performance in Software Engineering. IEEE Trans. Softw. Eng. 38, 6 (November 2012), 1276-1304.
+[1]: Tracy Hall, Sarah Beecham, David Bowes, David Gray, and Steve Counsell. 2012. A Systematic Literature Review on Fault Prediction Performance in Software Engineering. IEEE Trans. Softw. Eng. 38, 6 (November 2012), 1276-1304.
 
-Barbara Kitchenham, O. Pearl Brereton, David Budgen, Mark Turner, John Bailey, and Stephen Linkman. 2009. Systematic literature reviews in software engineering - A systematic literature review. Inf. Softw. Technol. 51, 1 (January 2009), 7-15.
+[2]: Barbara Kitchenham, O. Pearl Brereton, David Budgen, Mark Turner, John Bailey, and Stephen Linkman. 2009. Systematic literature reviews in software engineering - A systematic literature review. Inf. Softw. Technol. 51, 1 (January 2009), 7-15.
 
-Budgen, D., Burn, A. J., Brereton, O. P., Kitchenham, B. A. and Pretorius, R. (2011), Empirical evidence about the UML: a systematic literature review. Softw: Pract. Exper., 41: 363–392. doi: 10.1002/spe.1009
+[3]: Budgen, D., Burn, A. J., Brereton, O. P., Kitchenham, B. A. and Pretorius, R. (2011), Empirical evidence about the UML: a systematic literature review. Softw: Pract. Exper., 41: 363–392. doi: 10.1002/spe.1009
 
+[4]: Emerson Murphy-Hill, Thomas Zimmermann, Nachiappan Nagappan. Cowboys, Ankle Sprains, and Keepers of Quality: How Is Video Game Development Different from Software Development?. In Proceedings of the 36th International Conference on Software Engineering (ICSE 2014), Hyderabad, India, June 2014.
+
+[5]: Menzies, Tim and Pearce, Adrian and Heinze, Clinton and Goss, Simon. What is an agent and why should I care? Appears in Formal Approaches to Agent-Based Systems, 2003, 1-14
