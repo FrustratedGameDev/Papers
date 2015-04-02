@@ -1,5 +1,8 @@
-What Frustrates Game Developers?  A Literature Review
+What Frustrates Game Developers? 
 ===
+<i>A Systematic Literature Review</i>
+
+By Denae Ford and Anthony Elliott
 
 # Goals
 Game development shares some of the same things as traditional software engineering but also differs in several ways [4]. For example, Murphy-Hill et al. [4] showed that tension "between creative desires and technical constraints" is much more prevalent in games development than traditional software. 
@@ -109,6 +112,8 @@ We started off with a lot of dimensions after reviewing all papers. Once all dim
 #### Dimensions - Round 1
 Here are our list of original dimensions:
 
+![Repertory Grid Round 1](https://github.com/FrustratedGameDev/Papers/blob/master/Grid/FinalRepGrid_0323_02.png)
+
 * agile process vs waterfall process
 * process vs no process
 * entertainment vs solves problem
@@ -141,6 +146,8 @@ Here are our list of original dimensions:
 #### Dimensions - Round 2
 After merging, we resulted in the following list of dimensions:
 
+![Repertory Grid Round 2](https://github.com/FrustratedGameDev/Papers/blob/master/Grid/cluster_v2.png)
+
 * requirement volatility
 * user interactions
 * testing
@@ -156,6 +163,8 @@ After merging, we resulted in the following list of dimensions:
 
 #### Dimensions - Round 3
 After combining from the previous round we actually found that two of our papers had the exact same ratings on the grid. This means that they didn't contain any unique dimensions captured in our grid and so we removed one paper from the grid. This paper was Product Development in Japanese TV Game Software [6]. We again tried to capture the more general ideas behind the dimensions now that we had fewer to look at and were able to reduce down to the following list:
+
+![Repertory Grid Version 3 without weights](https://github.com/FrustratedGameDev/Papers/blob/master/Grid/cluster_v3.png)
 
 * autonomy from funding
 * developer motivation
@@ -246,7 +255,7 @@ As the final grid was generated and similar dimensions were combined, the author
 During this process we valued <i>importance</i> over <i>frequency</i>.
 Frequency refers to the amount of times an article discussed a dimension and importance refers to how much depth the article discussed a particular topic.
 
-![Repertory Grid Version 3 without weights](https://github.com/FrustratedGameDev/Papers/blob/master/Grid/cluster_v3.png)
+![Repertory Grid Version 3 with weights](https://github.com/FrustratedGameDev/Papers/blob/master/Grid/weightedCluster.png)
 
 For the final repertory grid, we decided to rank them as follows:  Requirement Volatility(25) , Quality of Life(21), Creativity(16), Developer Motivation(11), Testing(9), Team Composition(9), and Autonomy from Funding(9). 
 When determining the weights, the goal was to make sure that the sum of all dimensions was 100. 
@@ -259,8 +268,6 @@ In comparison to each other, this small subset were all determined to be on the 
 
 The tool 'Prioritze Concerns' feature of the Repertory Grid tool supported our adjustment of the weights. 
 This feature of the tool ensured that the value of the weights always summed to 100 and reflected the difference between dimensions as discussed between colloborators.
-
-![Repertory Grid Version 3 with weights](https://github.com/FrustratedGameDev/Papers/blob/master/Grid/weightedCluster.png)
 
 # Discussion
 
