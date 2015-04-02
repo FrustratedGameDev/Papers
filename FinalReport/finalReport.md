@@ -246,6 +246,24 @@ This project presented us with a repertory grid that compares the dimensions def
    You can consider this spectrum as how much  responsibility and accountability a company has over its own product. An example of this is Oracle as major mogul and Teklec being thesmall company: (1) Oracle buying all of Teklec and running teklec as Oracle v.s. (2) Oracle and Teklec running simultaneously and both Oracle and Tekelec are one in the same and share equal amounts of power v.s. (3) Teklec running individually receives funding from Oracle, yet Oracle still does not run any part of the company.
    [//]: # (   The spectrum of this dimension starts from (1)receiving all traditional funding from a company (where the investors own the company) to (2)receiving partial many money from a traditional source(where there is an equal balance of income and power in the company) to (3)having no connections to other companies and being completely self sustaining.)
 
+##Final Papers in Analysis
+
+* Hello Games [15]
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
 ##Weighted Dimensions
 
 While defining the initial list of dimensions, the weights of the dimensions in the Repertory Grid were all divided equally across the dimensions in the grid. 
