@@ -1,5 +1,8 @@
-What Frustrates Game Developers?  A Literature Review
+What Frustrates Game Developers? 
 ===
+<i>A Systematic Literature Review</i>
+
+By Denae Ford and Anthony Elliott
 
 # Goals
 Game development shares some of the same things as traditional software engineering but also differs in several ways [4]. For example, Murphy-Hill et al. [4] showed that tension "between creative desires and technical constraints" is much more prevalent in games development than traditional software. 
