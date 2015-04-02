@@ -290,7 +290,7 @@ Through completing this analysis it has been a found that there needs to be a ca
 A key paper from our literature reivew [4] has been recognized by the community as a step in the right direction but there is more to be done. 
 There is more to the development of games than the design process. 
 A detailed review of the design process would present how the design process in games affects the developers. 
-Just as previous researchers have refined what and how the social aspects of being a developer modifies the process[cite:programmer interrupted, exploring frustration, some SO study], we expect this paper to encourage the same for the games industry.
+Just as previous researchers have refined what and how the social aspects of being a developer modifies the process [11,12,13] , we expect this paper to encourage the same for the games industry.
 As an industry that is so similar and highly valued, the games industry will benefit highly from a deeper analysis of the games lifestyle.
 
 # Future Work
@@ -331,4 +331,10 @@ We expect that this qualitative analysis of the literature will continue to be a
 
 [9]: International Game Developers Association. Quality of Life in the Game Industry: Challenges and Best Practices. Published online April 20, 2004.
 
-[10]: Beck, Kent, Mike Beedle, Arie van Bennekum, Alistair Cockburn, Ward Cunningham, Martin Fowler, James Grenning et al. "The agile manifesto." (2001): 2009.
+[10]: Beck, K., Beedle, M., van Bennekum, A., Cockburn, A., Cunningham, W., Fowler, M., ... & Thomas, D. (2001). The agile manifesto.
+
+[11]: Parnin, C. (2013, September). Programmer, interrupted. In Visual Languages and Human-Centric Computing (VL/HCC), 2013 IEEE Symposium on (pp. 171-172). IEEE.
+
+[12]: Vasilescu, B., Capiluppi, A., & Serebrenik, A. (2012, December). Gender, representation and online participation: A quantitative study of StackOverflow. In Social Informatics (SocialInformatics), 2012 International Conference on (pp. 332-338). IEEE.
+
+[13]: Parnin, C. (2010). A cognitive neuroscience perspective on memory for programming tasks. Programming Interest Group, 27.
