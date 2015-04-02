@@ -271,7 +271,7 @@ This feature of the tool ensured that the value of the weights always summed to 
 
 The dimensions as defined in our results have found to be encouraged differently across the development community.
 For example, Requirement Volatility amongst general software developers in comparison to games developers. 
-Since fun and engagement, can be very hard to define[cite] for varied environments it affects the development process greatly in games. 
+Since fun and engagement, can be very hard to define [14] for varied environments it affects the development process greatly in games. 
 When creating a game this is something that can change at any stage in creating the game and the stress relies on games developers to ensure that it exists.
 Fun and engagement is a high priority for the games industry as it is what encourages the revenue from product users.
 In general software developement, requirements can be flexible in the agile process [10] and can be modified with iterative rollouts of a product. The iterative development process in games varies as planned crunches are approached.
@@ -338,3 +338,5 @@ We expect that this qualitative analysis of the literature will continue to be a
 [12]: Vasilescu, B., Capiluppi, A., & Serebrenik, A. (2012, December). Gender, representation and online participation: A quantitative study of StackOverflow. In Social Informatics (SocialInformatics), 2012 International Conference on (pp. 332-338). IEEE.
 
 [13]: Parnin, C. (2010). A cognitive neuroscience perspective on memory for programming tasks. Programming Interest Group, 27.
+
+[14]: Prensky, M. (2001). Fun, play and games: What makes games engaging. Digital game-based learning, 5, 1-05.
