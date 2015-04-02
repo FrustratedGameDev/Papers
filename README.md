@@ -1,6 +1,10 @@
 # Frustration of Game Developers
 *The Management Track*
 
+## Final Report
+Access the [Markdown file here.](https://github.com/FrustratedGameDev/Papers/blob/master/FinalReport/finalReport.md)
+
+## General
 This repo contains the detials from our course project.
 
 Project Description: http://www4.ncsu.edu/~tjmenzie/cs510/posts/project.html#management-track-thinking-beyond-the-state-of-the-art
