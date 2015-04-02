@@ -248,22 +248,21 @@ This project presented us with a repertory grid that compares the dimensions def
 
 ##Final Papers in Analysis
 
-* Hello Games' [15]
+* Hello Games’ Sean Murray interview [15]
 * Develop: Double Fine's Schafer On 'Amnesia Fortnights' And The Pitfalls Of AAA [17]
 * Quality of Life in the Game Industry: Challenges and Best Practices [9]
 * Cowboys, Ankle Sprains, and Keepers of Quality: How Is Video Game Development Different from Software Development? [4]
 * The'Console Ship is Sinking'and What this Means for Indies [8]
 * Developers claim 13 weeks of crunch per year [16]
 * Can crowdsourcing revolutionise indie funding? [18]
-*
-*
-*
-*
-*
-*
-*
-*
-*
+* Serious games continuum: Between games for purpose and experiential environments for purpose [19]
+* Software engineering challenges in game development [20]
+* Get Organized At Work! A Look Inside the Game Design Process of Valve and Linden Lab [21]
+* Is agility out there?: agile practices in game development [22]
+* Game development: Harder than you think [7]
+* Videogames as interactive experiential products and their manner of development [23]
+* Requirements engineering and the creative process in the video game industry [24]
+* David vs. GoliathVille: A Call to Arms for Indie Social Game Designers [25]
 
 ##Weighted Dimensions
 
@@ -375,3 +374,17 @@ esia_Fortnights_And_The_Pitfalls_Of_AAA.php
 
 [18]: Crossley, R. (2011b). Can crowdsourcing revolutionise indie funding? Develop. Retrieved
 January 28, 2011, from http://www.develop-online.net/news/36880/Can-crowdsourcingrevolutionise-indie-funding
+
+[19]: Marsh, T. (2011). Serious games continuum: Between games for purpose and experiential environments for purpose. Entertainment Computing, 2(2), 61-68.
+
+[20]: Kanode, C. M., & Haddad, H. M. (2009, April). Software engineering challenges in game development. In Information Technology: New Generations, 2009. ITNG'09. Sixth International Conference on (pp. 260-265). IEEE.
+
+[21]: Van der Graaf, S. (2012). Get Organized At Work! A Look Inside the Game Design Process of Valve and Linden Lab. Bulletin of Science, Technology & Society, 0270467612469079.
+
+[22]: Petrillo, F., & Pimenta, M. (2010, September). Is agility out there?: agile practices in game development. In Proceedings of the 28th ACM International Conference on Design of Communication (pp. 9-15). ACM.
+
+[23]: Tschang, F. T. (2005). Videogames as interactive experiential products and their manner of development. International Journal of Innovation Management, 9(01), 103-131.
+
+[24]: Callele, D., Neufeld, E., & Schneider, K. (2005, August). Requirements engineering and the creative process in the video game industry. In Requirements Engineering, 2005. Proceedings. 13th IEEE International Conference on (pp. 240-250). IEEE.
+
+[25]: David vs. GoliathVille: A Call to Arms for Indie Social Game Designers. (n.d.). Retrieved April 2, 2015, from https://www.scribd.com/doc/41760328/David-vs-GoliathVille-A-Call-to-Arms-for-Indie-Social-Game-Designers
