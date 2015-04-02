@@ -28,7 +28,7 @@ The end result are important distinctions between game development and tradition
 
 
 ## Step 1: Determining Seed Papers
-Initially our search was to review literature around the frustrations of developers caused by development environments such as Eclipse, with the intention of comparing game development environments to traditional software development environments. We used two papers we were very familiar with: one by Murphy-Hill et al. on differences between game development and traditional software development and a second by Ko et al. on the learning barriers encountered in development. We shifted our focus to be more general and to review literature around game development and how it differs from traditional software development. As a result of this focus change, we replaced the seed paper on learning barriers with a magazine article by Blow. Blow's article gave us insight into what it meant to be a game developer. We then compiled all references from these two papers into a list of potentially relevant papers.
+Initially our search was to review literature around the frustrations of developers caused by development environments such as Eclipse, with the intention of comparing game development environments to traditional software development environments. We used two papers we were very familiar with: one by Murphy-Hill et al. [4] on differences between game development and traditional software development and a second by Ko et al. [26] on the learning barriers encountered in development. We shifted our focus to be more general and to review literature around game development and how it differs from traditional software development. As a result of this focus change, we replaced the seed paper on learning barriers with a magazine article by Blow [7]. Blow's article gave us insight into what it meant to be a game developer. We then compiled all references from these two papers into a list of potentially relevant papers.
 
 
 ## Step 2: Determining Relevant Papers
@@ -390,3 +390,5 @@ January 28, 2011, from http://www.develop-online.net/news/36880/Can-crowdsourcin
 [24]: Callele, D., Neufeld, E., & Schneider, K. (2005, August). Requirements engineering and the creative process in the video game industry. In Requirements Engineering, 2005. Proceedings. 13th IEEE International Conference on (pp. 240-250). IEEE.
 
 [25]: David vs. GoliathVille: A Call to Arms for Indie Social Game Designers. (n.d.). Retrieved April 2, 2015, from https://www.scribd.com/doc/41760328/David-vs-GoliathVille-A-Call-to-Arms-for-Indie-Social-Game-Designers
+
+[26]: A. J. Ko, B. A. Myers, and H. H. Aung. Six learning barriers in enduser programming systems. In Visual Languages and Human Centric Computing, 2004 IEEE Symposium on, pages 199–206. IEEE, 2004.
