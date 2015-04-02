@@ -11,7 +11,6 @@ We wanted to find out what other frustrations game developers experience. Additi
 
 In order to accomplish these goals, we conducted a literature review. After performing our literature review, we present our findings in this paper. Our findings are presented in the form of a repertory grid analysis as demonstrated by Menzies et al. [5]. Such an analysis allows us to concisely convey the differences we found between game developers and software developers.
 
-
 # Background
 
 ## Motivation
