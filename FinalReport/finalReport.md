@@ -248,6 +248,8 @@ This project presented us with a repertory grid that compares the dimensions def
 
 ##Final Papers in Analysis
 
+The final list of papers used in the repertory grid analysis cluster are:
+
 * Hello Games’ Sean Murray interview [15]
 * Develop: Double Fine's Schafer On 'Amnesia Fortnights' And The Pitfalls Of AAA [17]
 * Quality of Life in the Game Industry: Challenges and Best Practices [9]
