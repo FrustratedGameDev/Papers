@@ -340,3 +340,6 @@ We expect that this qualitative analysis of the literature will continue to be a
 [13]: Parnin, C. (2010). A cognitive neuroscience perspective on memory for programming tasks. Programming Interest Group, 27.
 
 [14]: Prensky, M. (2001). Fun, play and games: What makes games engaging. Digital game-based learning, 5, 1-05.
+
+[15]: Pearson, D. (2010). Hello Games’ Sean Murray interview. Gamesindustry.biz. Retrieved
+December 20, 2010, from http://www.gamesindustry.biz/articles/2010-10-12-hello-seaninterview?page=2
