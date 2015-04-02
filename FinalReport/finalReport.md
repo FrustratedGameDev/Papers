@@ -246,7 +246,6 @@ This project presented us with a repertory grid that compares the dimensions def
    You can consider this spectrum as how much  responsibility and accountability a company has over its own product. An example of this is Oracle as major mogul and Teklec being thesmall company: (1) Oracle buying all of Teklec and running teklec as Oracle v.s. (2) Oracle and Teklec running simultaneously and both Oracle and Tekelec are one in the same and share equal amounts of power v.s. (3) Teklec running individually receives funding from Oracle, yet Oracle still does not run any part of the company.
    [//]: # (   The spectrum of this dimension starts from (1)receiving all traditional funding from a company (where the investors own the company) to (2)receiving partial many money from a traditional source(where there is an equal balance of income and power in the company) to (3)having no connections to other companies and being completely self sustaining.)
 
-
 ##Weighted Dimensions
 
 While defining the initial list of dimensions, the weights of the dimensions in the Repertory Grid were all divided equally across the dimensions in the grid. 
@@ -275,7 +274,7 @@ For example, Requirement Volatility amongst general software developers in compa
 Since fun and engagement, can be very hard to define[cite] for varied environments it affects the development process greatly in games. 
 When creating a game this is something that can change at any stage in creating the game and the stress relies on games developers to ensure that it exists.
 Fun and engagement is a high priority for the games industry as it is what encourages the revenue from product users.
-In general software developement, requirements can be flexible in the agile process[cite:creator of agile] and can be modified with iterative rollouts of a product. The iterative development process in games varies as planned crunches are approached.
+In general software developement, requirements can be flexible in the agile process [10] and can be modified with iterative rollouts of a product. The iterative development process in games varies as planned crunches are approached.
 
 Another example of how a dimension can vary across the development community is creativity.
 The creativity versus constructivism spectrum compares the value of fostering the natural ability to create art versus the ability to build upon what has already been done.
@@ -288,7 +287,7 @@ The constructivism of code reuse as a starting point is the approach in general 
 
 This repertory grid analysis provides many implications for further research in games development.
 Through completing this analysis it has been a found that there needs to be a call for more research into the lifestyle of games developers. 
-A key paper from our literature reivew[cite:Murphy, Cowboys] has been recognized by the community as a step in the right direction but there is more to be done. 
+A key paper from our literature reivew [4] has been recognized by the community as a step in the right direction but there is more to be done. 
 There is more to the development of games than the design process. 
 A detailed review of the design process would present how the design process in games affects the developers. 
 Just as previous researchers have refined what and how the social aspects of being a developer modifies the process[cite:programmer interrupted, exploring frustration, some SO study], we expect this paper to encourage the same for the games industry.
@@ -331,3 +330,5 @@ We expect that this qualitative analysis of the literature will continue to be a
 [8]: WHITSON, J.. The 'Console Ship is Sinking' and What this Means for Indies. Loading..., North America, 7, dec. 2012. Available at: http://journals.sfu.ca/loading/index.php/loading/article/view/125. Date accessed: 01 Apr. 2015.
 
 [9]: International Game Developers Association. Quality of Life in the Game Industry: Challenges and Best Practices. Published online April 20, 2004.
+
+[10]: Beck, Kent, Mike Beedle, Arie van Bennekum, Alistair Cockburn, Ward Cunningham, Martin Fowler, James Grenning et al. "The agile manifesto." (2001): 2009.
