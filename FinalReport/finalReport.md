@@ -249,12 +249,12 @@ This project presented us with a repertory grid that compares the dimensions def
 ##Final Papers in Analysis
 
 * Hello Games' [15]
-* Develop: Double Fine's Schafer On 'Amnesia Fortnights' And The Pitfalls Of AAA
-* The'Console Ship is Sinking'and What this Means for Indies [8]
+* Develop: Double Fine's Schafer On 'Amnesia Fortnights' And The Pitfalls Of AAA [17]
 * Quality of Life in the Game Industry: Challenges and Best Practices [9]
 * Cowboys, Ankle Sprains, and Keepers of Quality: How Is Video Game Development Different from Software Development? [4]
-*
-*
+* The'Console Ship is Sinking'and What this Means for Indies [8]
+* Developers claim 13 weeks of crunch per year [16]
+* Can crowdsourcing revolutionise indie funding? [18]
 *
 *
 *
@@ -363,3 +363,15 @@ We expect that this qualitative analysis of the literature will continue to be a
 [15]: Pearson, D. (2010). Hello Games’ Sean Murray interview. Gamesindustry.biz. Retrieved
 December 20, 2010, from http://www.gamesindustry.biz/articles/2010-10-12-hello-seaninterview?page=2
 
+[16]: Remo, C. (2010). Developers claim 13 weeks of crunch per year. Gamasutra. Retrieved June 2,
+2010, from
+http://www.gamasutra.com/view/news/28669/Study_Developers_Claim_13_Weeks_Of_
+Crunch_Per_Year.php
+
+[17]: Parkin, S. (2010). Double Fine’s Schafer on “amnesia fortnights” and the pitfalls of AAA.
+Gamasutra. Retrieved July 15, 2010, from
+http://www.gamasutra.com/view/news/29450/Develop_Double_Fines_Schafer_On_Amn
+esia_Fortnights_And_The_Pitfalls_Of_AAA.php
+
+[18]: Crossley, R. (2011b). Can crowdsourcing revolutionise indie funding? Develop. Retrieved
+January 28, 2011, from http://www.develop-online.net/news/36880/Can-crowdsourcingrevolutionise-indie-funding
