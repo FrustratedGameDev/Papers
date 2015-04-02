@@ -248,10 +248,11 @@ This project presented us with a repertory grid that compares the dimensions def
 
 ##Final Papers in Analysis
 
-* Hello Games [15]
-*
-*
-*
+* Hello Games' [15]
+* Develop: Double Fine's Schafer On 'Amnesia Fortnights' And The Pitfalls Of AAA
+* The'Console Ship is Sinking'and What this Means for Indies [8]
+* Quality of Life in the Game Industry: Challenges and Best Practices [9]
+* Cowboys, Ankle Sprains, and Keepers of Quality: How Is Video Game Development Different from Software Development? [4]
 *
 *
 *
@@ -361,3 +362,4 @@ We expect that this qualitative analysis of the literature will continue to be a
 
 [15]: Pearson, D. (2010). Hello Games’ Sean Murray interview. Gamesindustry.biz. Retrieved
 December 20, 2010, from http://www.gamesindustry.biz/articles/2010-10-12-hello-seaninterview?page=2
+
