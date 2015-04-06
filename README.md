@@ -30,3 +30,11 @@ Project Description: http://www4.ncsu.edu/~tjmenzie/cs510/posts/project.html#man
 ## Repertory grid analysis creation tool: 
 
 * http://repertorygridtool.com
+
+
+## Presentation
+
+Intro: Anthony
+Rep grid: Denae
+Methodology thru grid iterations:  Anthony
+Dimensions Defined thru end: Denae
