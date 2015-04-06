@@ -34,7 +34,7 @@ Project Description: http://www4.ncsu.edu/~tjmenzie/cs510/posts/project.html#man
 
 ## Presentation
 
-Intro: Anthony
-Rep grid: Denae
-Methodology thru grid iterations:  Anthony
-Dimensions Defined thru end: Denae
+Intro(1)- (4): Anthony
+Rep grid(5): Denae
+Methodology(6) thru grid iterations(14):  Anthony
+Dimensions Defined(15) thru end(23): Denae
