@@ -11,7 +11,6 @@ We wanted to find out what other frustrations game developers experience. Additi
 
 In order to accomplish these goals, we conducted a literature review. After performing our literature review, we present our findings in this paper. Our findings are presented in the form of a repertory grid analysis as demonstrated by Menzies et al. [5]. Such an analysis allows us to concisely convey the differences we found between game developers and software developers.
 
-
 # Background
 
 ## Motivation
@@ -29,7 +28,7 @@ The end result are important distinctions between game development and tradition
 
 
 ## Step 1: Determining Seed Papers
-Initially our search was to review literature around the frustrations of developers caused by development environments such as Eclipse, with the intention of comparing game development environments to traditional software development environments. We used two papers we were very familiar with: one by Murphy-Hill et al. on differences between game development and traditional software development and a second by Ko et al. on the learning barriers encountered in development. We shifted our focus to be more general and to review literature around game development and how it differs from traditional software development. As a result of this focus change, we replaced the seed paper on learning barriers with a magazine article by Blow. Blow's article gave us insight into what it meant to be a game developer. We then compiled all references from these two papers into a list of potentially relevant papers.
+Initially our search was to review literature around the frustrations of developers caused by development environments such as Eclipse, with the intention of comparing game development environments to traditional software development environments. We used two papers we were very familiar with: one by Murphy-Hill et al. [4] on differences between game development and traditional software development and a second by Ko et al. [26] on the learning barriers encountered in development. We shifted our focus to be more general and to review literature around game development and how it differs from traditional software development. As a result of this focus change, we replaced the seed paper on learning barriers with a magazine article by Blow [7]. Blow's article gave us insight into what it meant to be a game developer. We then compiled all references from these two papers into a list of potentially relevant papers.
 
 
 ## Step 2: Determining Relevant Papers
@@ -247,6 +246,25 @@ This project presented us with a repertory grid that compares the dimensions def
    You can consider this spectrum as how much  responsibility and accountability a company has over its own product. An example of this is Oracle as major mogul and Teklec being thesmall company: (1) Oracle buying all of Teklec and running teklec as Oracle v.s. (2) Oracle and Teklec running simultaneously and both Oracle and Tekelec are one in the same and share equal amounts of power v.s. (3) Teklec running individually receives funding from Oracle, yet Oracle still does not run any part of the company.
    [//]: # (   The spectrum of this dimension starts from (1)receiving all traditional funding from a company (where the investors own the company) to (2)receiving partial many money from a traditional source(where there is an equal balance of income and power in the company) to (3)having no connections to other companies and being completely self sustaining.)
 
+##Final Papers in Analysis
+
+The final list of papers used in the repertory grid analysis cluster are:
+
+* Hello Games’ Sean Murray interview [15]
+* Develop: Double Fine's Schafer On 'Amnesia Fortnights' And The Pitfalls Of AAA [17]
+* Quality of Life in the Game Industry: Challenges and Best Practices [9]
+* Cowboys, Ankle Sprains, and Keepers of Quality: How Is Video Game Development Different from Software Development? [4]
+* The'Console Ship is Sinking'and What this Means for Indies [8]
+* Developers claim 13 weeks of crunch per year [16]
+* Can crowdsourcing revolutionise indie funding? [18]
+* Serious games continuum: Between games for purpose and experiential environments for purpose [19]
+* Software engineering challenges in game development [20]
+* Get Organized At Work! A Look Inside the Game Design Process of Valve and Linden Lab [21]
+* Is agility out there?: agile practices in game development [22]
+* Game development: Harder than you think [7]
+* Videogames as interactive experiential products and their manner of development [23]
+* Requirements engineering and the creative process in the video game industry [24]
+* David vs. GoliathVille: A Call to Arms for Indie Social Game Designers [25]
 
 ##Weighted Dimensions
 
@@ -273,10 +291,10 @@ This feature of the tool ensured that the value of the weights always summed to 
 
 The dimensions as defined in our results have found to be encouraged differently across the development community.
 For example, Requirement Volatility amongst general software developers in comparison to games developers. 
-Since fun and engagement, can be very hard to define[cite] for varied environments it affects the development process greatly in games. 
+Since fun and engagement, can be very hard to define [14] for varied environments it affects the development process greatly in games. 
 When creating a game this is something that can change at any stage in creating the game and the stress relies on games developers to ensure that it exists.
 Fun and engagement is a high priority for the games industry as it is what encourages the revenue from product users.
-In general software developement, requirements can be flexible in the agile process[cite:creator of agile] and can be modified with iterative rollouts of a product. The iterative development process in games varies as planned crunches are approached.
+In general software developement, requirements can be flexible in the agile process [10] and can be modified with iterative rollouts of a product. The iterative development process in games varies as planned crunches are approached.
 
 Another example of how a dimension can vary across the development community is creativity.
 The creativity versus constructivism spectrum compares the value of fostering the natural ability to create art versus the ability to build upon what has already been done.
@@ -289,10 +307,10 @@ The constructivism of code reuse as a starting point is the approach in general 
 
 This repertory grid analysis provides many implications for further research in games development.
 Through completing this analysis it has been a found that there needs to be a call for more research into the lifestyle of games developers. 
-A key paper from our literature reivew[cite:Murphy, Cowboys] has been recognized by the community as a step in the right direction but there is more to be done. 
+A key paper from our literature reivew [4] has been recognized by the community as a step in the right direction but there is more to be done. 
 There is more to the development of games than the design process. 
 A detailed review of the design process would present how the design process in games affects the developers. 
-Just as previous researchers have refined what and how the social aspects of being a developer modifies the process[cite:programmer interrupted, exploring frustration, some SO study], we expect this paper to encourage the same for the games industry.
+Just as previous researchers have refined what and how the social aspects of being a developer modifies the process [11,12,13] , we expect this paper to encourage the same for the games industry.
 As an industry that is so similar and highly valued, the games industry will benefit highly from a deeper analysis of the games lifestyle.
 
 # Future Work
@@ -332,3 +350,45 @@ We expect that this qualitative analysis of the literature will continue to be a
 [8]: WHITSON, J.. The 'Console Ship is Sinking' and What this Means for Indies. Loading..., North America, 7, dec. 2012. Available at: http://journals.sfu.ca/loading/index.php/loading/article/view/125. Date accessed: 01 Apr. 2015.
 
 [9]: International Game Developers Association. Quality of Life in the Game Industry: Challenges and Best Practices. Published online April 20, 2004.
+
+[10]: Beck, K., Beedle, M., van Bennekum, A., Cockburn, A., Cunningham, W., Fowler, M., ... & Thomas, D. (2001). The agile manifesto.
+
+[11]: Parnin, C. (2013, September). Programmer, interrupted. In Visual Languages and Human-Centric Computing (VL/HCC), 2013 IEEE Symposium on (pp. 171-172). IEEE.
+
+[12]: Vasilescu, B., Capiluppi, A., & Serebrenik, A. (2012, December). Gender, representation and online participation: A quantitative study of StackOverflow. In Social Informatics (SocialInformatics), 2012 International Conference on (pp. 332-338). IEEE.
+
+[13]: Parnin, C. (2010). A cognitive neuroscience perspective on memory for programming tasks. Programming Interest Group, 27.
+
+[14]: Prensky, M. (2001). Fun, play and games: What makes games engaging. Digital game-based learning, 5, 1-05.
+
+[15]: Pearson, D. (2010). Hello Games’ Sean Murray interview. Gamesindustry.biz. Retrieved
+December 20, 2010, from http://www.gamesindustry.biz/articles/2010-10-12-hello-seaninterview?page=2
+
+[16]: Remo, C. (2010). Developers claim 13 weeks of crunch per year. Gamasutra. Retrieved June 2,
+2010, from
+http://www.gamasutra.com/view/news/28669/Study_Developers_Claim_13_Weeks_Of_
+Crunch_Per_Year.php
+
+[17]: Parkin, S. (2010). Double Fine’s Schafer on “amnesia fortnights” and the pitfalls of AAA.
+Gamasutra. Retrieved July 15, 2010, from
+http://www.gamasutra.com/view/news/29450/Develop_Double_Fines_Schafer_On_Amn
+esia_Fortnights_And_The_Pitfalls_Of_AAA.php
+
+[18]: Crossley, R. (2011b). Can crowdsourcing revolutionise indie funding? Develop. Retrieved
+January 28, 2011, from http://www.develop-online.net/news/36880/Can-crowdsourcingrevolutionise-indie-funding
+
+[19]: Marsh, T. (2011). Serious games continuum: Between games for purpose and experiential environments for purpose. Entertainment Computing, 2(2), 61-68.
+
+[20]: Kanode, C. M., & Haddad, H. M. (2009, April). Software engineering challenges in game development. In Information Technology: New Generations, 2009. ITNG'09. Sixth International Conference on (pp. 260-265). IEEE.
+
+[21]: Van der Graaf, S. (2012). Get Organized At Work! A Look Inside the Game Design Process of Valve and Linden Lab. Bulletin of Science, Technology & Society, 0270467612469079.
+
+[22]: Petrillo, F., & Pimenta, M. (2010, September). Is agility out there?: agile practices in game development. In Proceedings of the 28th ACM International Conference on Design of Communication (pp. 9-15). ACM.
+
+[23]: Tschang, F. T. (2005). Videogames as interactive experiential products and their manner of development. International Journal of Innovation Management, 9(01), 103-131.
+
+[24]: Callele, D., Neufeld, E., & Schneider, K. (2005, August). Requirements engineering and the creative process in the video game industry. In Requirements Engineering, 2005. Proceedings. 13th IEEE International Conference on (pp. 240-250). IEEE.
+
+[25]: David vs. GoliathVille: A Call to Arms for Indie Social Game Designers. (n.d.). Retrieved April 2, 2015, from https://www.scribd.com/doc/41760328/David-vs-GoliathVille-A-Call-to-Arms-for-Indie-Social-Game-Designers
+
+[26]: A. J. Ko, B. A. Myers, and H. H. Aung. Six learning barriers in enduser programming systems. In Visual Languages and Human Centric Computing, 2004 IEEE Symposium on, pages 199–206. IEEE, 2004.
